@@ -1,0 +1,7 @@
+flask
+tensorflow==2.15
+tensorflow_hub==0.16
+numpy
+soundfile
+requests
+gunicorn
